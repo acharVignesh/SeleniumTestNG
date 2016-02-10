@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111101" started-at="2016-01-29T14:42:36Z" finished-at="2016-01-29T14:44:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111101" started-at="2016-01-29T14:42:36Z" finished-at="2016-01-29T14:44:27Z">
+      <class name="com.philips.SATscripts.LinkBasicTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.philips.SATscripts.LinkBasicTests@198a1f4]" name="setUp" is-config="true" duration-ms="43543" started-at="2016-01-29T20:12:36Z" finished-at="2016-01-29T20:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setAggregateID()[pri:0, instance:com.philips.SATscripts.LinkBasicTests@198a1f4]" name="setAggregateID" is-config="true" duration-ms="0" started-at="2016-01-29T20:13:19Z" finished-at="2016-01-29T20:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setAggregateID -->
+        <test-method status="PASS" signature="testLinkingSingleFragment()[pri:0, instance:com.philips.SATscripts.LinkBasicTests@198a1f4]" name="testLinkingSingleFragment" duration-ms="60213" started-at="2016-01-29T20:13:19Z" finished-at="2016-01-29T20:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkingSingleFragment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.philips.SATscripts.LinkBasicTests@198a1f4]" name="tearDown" is-config="true" duration-ms="7323" started-at="2016-01-29T20:14:19Z" finished-at="2016-01-29T20:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.philips.SATscripts.LinkBasicTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

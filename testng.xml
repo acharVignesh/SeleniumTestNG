@@ -1,0 +1,10 @@
+<suite name="Suite" parallel="none" junit="false" guice-stage="DEVELOPMENT" configfailurepolicy="skip" thread-count="5" skipfailedinvocationcounts="false" data-provider-thread-count="10" group-by-instances="false" preserve-order="true" allow-return-values="false">
+  <test name="Test" junit="false" skipfailedinvocationcounts="false" preserve-order="true" group-by-instances="false" allow-return-values="false">
+    <classes>
+      <class name="com.philips.actionmodules.SignInAction"/>
+      <methods>
+        <include name="testLinkingSingleFragment"/>
+      </methods>
+    </classes>
+  </test>
+</suite>
